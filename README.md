@@ -36,5 +36,5 @@ To run
 - Nikhil Chauhan (Team Lead)
 - Anmol Jagota
 - Kunal Deotale
-- Nayan Singh
+- Nanhi Kumari
 - Musavvir Shaikh
